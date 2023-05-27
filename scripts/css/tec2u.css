@@ -1,0 +1,77 @@
+.navspace {
+
+    margin-top:15vh;
+
+}
+
+.titulotela {
+
+    display: block;
+    width: calc(100% + 30px);
+    background: #ddd;
+    padding-top:4vh;
+    padding-bottom:4vh;
+    margin-left: -15px;
+    margin-right: -15px;
+    box-sizing: border-box;
+    margin-top:3vh;
+
+}
+
+.divbotaocriar{
+
+    margin-top:2vh;
+    padding-bottom:2vh;
+
+}
+
+.containerpag {
+
+    display: block;
+    width: calc(100% + 30px);
+    background: #ddd;
+    padding-top: 2vh;
+    margin-left: -15px;
+    margin-right: -15px;
+    box-sizing: border-box;
+
+}
+
+.containerbutton {
+
+    display: block;
+    width: calc(100% + 30px);
+    background: #ddd;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    margin-left: -15px;
+    margin-right: -15px;
+    box-sizing: border-box;
+    margin-top:3vh;
+
+}
+
+
+.containercrud{
+
+    /*padding-bottom:20px; */
+    margin-bottom:40px;
+    
+}
+
+.branco {
+
+    background:#fff;
+
+}
+
+.azul2u{
+
+    background:#0064fb;
+
+}
+
+.azul2uu{
+    background:#007bff;
+}
+
